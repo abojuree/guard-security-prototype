@@ -1,0 +1,39 @@
+
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" fill="white"/>
+  <!-- رأس الحارسة -->
+  <path d="M30 38C30 30 36 24 44 24H56C64 24 70 30 70 38V48C70 56 64 62 56 62H44C36 62 30 56 30 48V38Z" fill="none" stroke="black" stroke-width="3"/>
+  
+  <!-- شعر طويل -->
+  <path d="M28 32C28 28 32 24 38 24H62C68 24 72 28 72 32V42C72 46 68 50 62 50C62 48 60 46 58 46H42C40 46 38 48 38 50C32 50 28 46 28 42V32Z" fill="none" stroke="black" stroke-width="3"/>
+  
+  <!-- القبعة -->
+  <path d="M26 30C26 26 30 22 36 22H64C70 22 74 26 74 30V32C74 34 72 36 70 36H30C28 36 26 34 26 32V30Z" fill="none" stroke="black" stroke-width="3"/>
+  <circle cx="50" cy="29" r="3" fill="none" stroke="black" stroke-width="3"/>
+  
+  <!-- خط القبعة -->
+  <path d="M26 34C26 32 28 30 30 30H70C72 30 74 32 74 34" fill="none" stroke="black" stroke-width="3"/>
+  
+  <!-- الكتفان والجسم -->
+  <path d="M50 62V88" stroke="black" stroke-width="3"/>
+  <path d="M30 62L30 76L20 88L35 88L35 76L35 62" fill="none" stroke="black" stroke-width="3"/>
+  <path d="M70 62L70 76L80 88L65 88L65 76L65 62" fill="none" stroke="black" stroke-width="3"/>
+  
+  <!-- الياقة -->
+  <path d="M35 62L42 68L50 62L58 68L65 62" fill="none" stroke="black" stroke-width="3"/>
+  
+  <!-- ربطة العنق -->
+  <path d="M50 62L46 68L46 80L54 80L54 68L50 62Z" fill="black"/>
+  
+  <!-- شارة الأمن -->
+  <circle cx="60" cy="72" r="6" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M55 72L59 76L65 66" stroke="black" stroke-width="2" fill="none"/>
+  <circle cx="60" cy="69" r="1" fill="black"/>
+  
+  <!-- كتافات -->
+  <rect x="32" y="64" width="6" height="3" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="62" y="64" width="6" height="3" fill="none" stroke="black" stroke-width="2"/>
+  
+  <!-- جيوب -->
+  <rect x="38" y="72" width="8" height="6" fill="none" stroke="black" stroke-width="2"/>
+</svg>
