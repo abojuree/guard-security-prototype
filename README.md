@@ -256,28 +256,11 @@ npm install
 
 ---
 
-## 📄 الترخيص | License
+## 📄 الحقوق
 
-هذا المشروع مرخص تحت رخصة MIT - راجع ملف [LICENSE](LICENSE) للتفاصيل.
+حقوق هذا العمل محفوظة لـ ناصر الحميد
+Nalhumaid.com
+00966569143699
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 الدعم والتواصل | Support & Contact
-
-- 📧 **البريد الإلكتروني** | **Email**: support@guard-platform.com
-- 🌐 **الموقع** | **Website**: www.guard-platform.com
-- 📱 **التليفون** | **Phone**: +966 XX XXX XXXX
-
----
-
-<div align="center">
-
-**صُنع بـ ❤️ للمجتمع الأمني السعودي**  
-*Made with ❤️ for the Saudi Security Community*
-
-[![GitHub stars](https://img.shields.io/github/stars/username/guard-platform?style=social)](https://github.com/username/guard-platform)
-[![GitHub forks](https://img.shields.io/github/forks/username/guard-platform?style=social)](https://github.com/username/guard-platform)
 
 </div>
